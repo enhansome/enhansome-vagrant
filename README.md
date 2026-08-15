@@ -1,6 +1,6 @@
 # Awesome Vagrant with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,702 | 🐛 100 | 📅 2026-06-30 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iJackUA/awesome-vagrant?utm_source=badge\&utm_medium=badge\&utm_campaign=pr-badge) [![Build Status](https://api.travis-ci.org/iJackUA/awesome-vagrant.svg?branch=master)](https://travis-ci.org/iJackUA/awesome-vagrant)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,044 | 🐛 100 | 📅 2026-06-30 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iJackUA/awesome-vagrant?utm_source=badge\&utm_medium=badge\&utm_campaign=pr-badge) [![Build Status](https://api.travis-ci.org/iJackUA/awesome-vagrant.svg?branch=master)](https://travis-ci.org/iJackUA/awesome-vagrant)
 
 A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
 
@@ -16,7 +16,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 * [Vagrantbox.es](http://www.vagrantbox.es/) - the biggest list of all available boxes, maintained by community via GitHub pull requests.
 * [Vagrant Cloud](https://app.vagrantup.com/boxes/search) - config share, boxes distribution and discovery (also premium features of private collaboration and sharing).
 * [Cloud Images Ubuntu.com](https://cloud-images.ubuntu.com/vagrant/) - "clean" official Ubuntu cloud images.
-* [Baseboxes from Opscode](https://github.com/chef/bento#current-baseboxes) ⭐ 4,439 | 🐛 20 | 🌐 HCL | 📅 2026-08-08 - CentOS, Fedora, Debian, FreeBSD, Ubuntu.
+* [Baseboxes from Opscode](https://github.com/chef/bento#current-baseboxes) ⭐ 4,440 | 🐛 20 | 🌐 HCL | 📅 2026-08-08 - CentOS, Fedora, Debian, FreeBSD, Ubuntu.
 * [Puppet Labs Vagrant Boxes](http://puppet-vagrant-boxes.puppetlabs.com/) - these boxes are provided to be used by various Puppet projects.
 * [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with support for Vagrant repositories (and many others).
 
@@ -42,7 +42,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 
 ## Helpers / Tools
 
-* [Vagrant plugin for ZSH shell](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant) ⭐ 189,180 | 🐛 586 | 🌐 Shell | 📅 2026-08-11 - auto-complete for commands, task names, box names and built-in documentation.
+* [Vagrant plugin for ZSH shell](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant) ⭐ 189,202 | 🐛 592 | 🌐 Shell | 📅 2026-08-11 - auto-complete for commands, task names, box names and built-in documentation.
 * [Veewee](https://github.com/jedi4ever/veewee) ⭐ 4,262 | 🐛 104 | 🌐 Shell | 📅 2018-09-17 - a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
 * [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) ⚠️ Archived - boilerplate to create, develop and deploy a Docker Swarm environment, using Vagrant to reproduce production environment locally.
 * [CLI Vagrant Manager](https://github.com/MunGell/vgm) ⚠️ Archived - simple command-line tool to manage multiple vagrant boxes
@@ -95,7 +95,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 
 * [Varying Vagrant Vagrants](https://github.com/Varying-Vagrant-Vagrants/VVV) ⭐ 4,525 | 🐛 99 | 🌐 Shell | 📅 2026-06-08 - An open source Vagrant configuration focused on WordPress development.
 * [Vagrantpress](https://github.com/vagrantpress/vagrantpress) ⚠️ Archived - development environment for creating and modifying WordPress sites.
-* [Laravel4-Vagrant](https://github.com/bryannielsen/Laravel4-Vagrant) ⭐ 484 | 🐛 15 | 🌐 Ruby | 📅 2015-05-20 - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
+* [Laravel4-Vagrant](https://github.com/bryannielsen/Laravel4-Vagrant) ⭐ 483 | 🐛 15 | 🌐 Ruby | 📅 2015-05-20 - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
 * [OpenStack on Ansible with Vagrant](https://github.com/openstack-ansible/openstack-ansible) ⭐ 215 | 🐛 8 | 🌐 Python | 📅 2016-12-21.
 * [Joomla-Vagrant](https://github.com/joomlatools/joomlatools-vagrant) ⚠️ Archived.
 * [Try Yii2](https://github.com/iJackUA/try-yii2) ⭐ 47 | 🐛 3 | 🌐 PHP | 📅 2015-12-15 - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
@@ -112,4 +112,4 @@ To the extent possible under law, [Ievgen Kuzminov](http://stdout.in/) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
