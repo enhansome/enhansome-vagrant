@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 481872,
             "language": "Ruby",
             "last_commit": "2026-08-03T08:01:11Z",
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27197
+            "stars": 27196
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 2337256,
             "language": "Ruby",
             "last_commit": "2023-12-17T15:26:49Z",
             "owner": "dotless-de",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9729334,
             "language": "Ruby",
             "last_commit": "2021-12-01T06:06:47Z",
             "owner": "agiledivider",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1674637,
             "language": "Ruby",
             "last_commit": "2020-02-17T16:13:43Z",
             "owner": "jedi4ever",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29886269,
             "language": "Ruby",
             "last_commit": "2022-03-03T14:53:14Z",
             "owner": "invernizzi",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11705000,
             "language": "Ruby",
             "last_commit": "2017-04-24T22:43:53Z",
             "owner": "phinze",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14090261,
             "language": "Ruby",
             "last_commit": "2015-01-29T08:51:02Z",
             "owner": "jaugustin",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25401603,
             "language": "Ruby",
             "last_commit": "2020-03-21T18:38:55Z",
             "owner": "projectatomic",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 51367450,
             "language": "Ruby",
             "last_commit": "2017-02-03T08:43:55Z",
             "owner": "projectatomic",
@@ -133,7 +142,7 @@
       "title": "Notable plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -142,11 +151,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 291137,
             "language": "Shell",
             "last_commit": "2026-08-17T21:45:08Z",
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189245
+            "stars": 189265
           }
         },
         {
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1066222,
             "language": "Shell",
             "last_commit": "2018-09-17T07:21:35Z",
             "owner": "jedi4ever",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 218020487,
             "language": "Shell",
             "last_commit": "2025-02-06T08:50:52Z",
             "owner": "thomvaill",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 61433502,
             "language": "JavaScript",
             "last_commit": "2016-10-22T17:05:17Z",
             "owner": "MunGell",
@@ -195,7 +208,7 @@
       "title": "Helpers / Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7123799,
             "language": "Shell",
             "last_commit": "2026-06-08T10:43:10Z",
             "owner": "Varying-Vagrant-Vagrants",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 7766206,
             "language": "Puppet",
             "last_commit": "2016-12-31T18:41:07Z",
             "owner": "vagrantpress",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6423499,
             "language": "Ruby",
             "last_commit": "2015-05-20T15:17:07Z",
             "owner": "bryannielsen",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4989042,
             "language": "Python",
             "last_commit": "2016-12-21T11:15:00Z",
             "owner": "openstack-ansible",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 11895722,
             "language": "PHP",
             "last_commit": "2020-08-19T09:21:42Z",
             "owner": "joomlatools",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20268007,
             "language": "PHP",
             "last_commit": "2015-12-15T10:50:03Z",
             "owner": "iJackUA",
@@ -283,16 +302,12 @@
         }
       ],
       "title": "Popular readymade environments"
-    },
-    {
-      "description": "To the extent possible under law, Ievgen Kuzminov has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:13:18.747Z",
+    "last_updated": "2026-08-19T12:57:20.485Z",
     "original_repository": "iJackUA/awesome-vagrant",
+    "original_repository_id": 22462211,
     "original_repository_sha": "969258654304bac6e72e17681cbaeef543a67abe",
     "enhanced_repository": "enhansome/enhansome-vagrant",
     "enhanced_repository_description": null,
