@@ -15,7 +15,7 @@
             "last_commit": "2026-08-03T08:01:11Z",
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27197
+            "stars": 27198
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-20T08:43:08Z",
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189276
+            "stars": 189294
           }
         },
         {
@@ -305,7 +305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:14:01.704Z",
+    "last_updated": "2026-08-21T17:14:45.175Z",
     "original_repository": "iJackUA/awesome-vagrant",
     "original_repository_id": 22462211,
     "original_repository_sha": "969258654304bac6e72e17681cbaeef543a67abe",
