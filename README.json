@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub repo",
+          "description": "source code, issues discussion and collaboration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 481872,
+            "language": "Ruby",
+            "last_commit": "2026-08-03T08:01:11Z",
+            "owner": "hashicorp",
+            "repo": "vagrant",
+            "stars": 27199
+          }
+        }
+      ],
+      "title": "Official resources"
+    },
+    {
+      "description": "Where to find OS boxes ?",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Baseboxes from Opscode",
+          "description": "CentOS, Fedora, Debian, FreeBSD, Ubuntu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3651143,
+            "language": "HCL",
+            "last_commit": "2026-08-08T00:46:49Z",
+            "owner": "chef",
+            "repo": "bento",
+            "stars": 4443
+          }
+        }
+      ],
+      "title": "Boxes"
+    },
+    {
       "description": "You can install these modules by this command",
       "items": [
         {
@@ -30,7 +72,7 @@
             "last_commit": "2023-12-17T15:26:49Z",
             "owner": "dotless-de",
             "repo": "vagrant-vbguest",
-            "stars": 2864
+            "stars": 2865
           }
         },
         {
@@ -75,7 +117,7 @@
             "last_commit": "2022-03-03T14:53:14Z",
             "owner": "invernizzi",
             "repo": "vagrant-scp",
-            "stars": 314
+            "stars": 313
           }
         },
         {
@@ -153,10 +195,10 @@
             "archived": false,
             "id": 291137,
             "language": "Shell",
-            "last_commit": "2026-08-23T12:53:50Z",
+            "last_commit": "2026-08-24T06:41:53Z",
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189322
+            "stars": 189347
           }
         },
         {
@@ -305,7 +347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:06:34.030Z",
+    "last_updated": "2026-08-24T14:19:30.816Z",
     "original_repository": "iJackUA/awesome-vagrant",
     "original_repository_id": 22462211,
     "original_repository_sha": "969258654304bac6e72e17681cbaeef543a67abe",
