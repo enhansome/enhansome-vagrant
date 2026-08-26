@@ -15,7 +15,7 @@
             "last_commit": "2026-08-03T08:01:11Z",
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27200
+            "stars": 27202
           }
         }
       ],
@@ -36,7 +36,7 @@
             "last_commit": "2026-08-08T00:46:49Z",
             "owner": "chef",
             "repo": "bento",
-            "stars": 4443
+            "stars": 4445
           }
         }
       ],
@@ -57,7 +57,7 @@
             "last_commit": "2026-08-03T08:01:11Z",
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27200
+            "stars": 27202
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-08-25T14:40:25Z",
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189363
+            "stars": 189383
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2018-09-17T07:21:35Z",
             "owner": "jedi4ever",
             "repo": "veewee",
-            "stars": 4262
+            "stars": 4263
           }
         },
         {
@@ -347,7 +347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:18:04.184Z",
+    "last_updated": "2026-08-26T18:28:31.233Z",
     "original_repository": "iJackUA/awesome-vagrant",
     "original_repository_id": 22462211,
     "original_repository_sha": "969258654304bac6e72e17681cbaeef543a67abe",
