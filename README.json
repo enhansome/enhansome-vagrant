@@ -15,7 +15,7 @@
             "last_commit": "2026-08-03T08:01:11Z",
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27202
+            "stars": 27203
           }
         }
       ],
@@ -36,7 +36,7 @@
             "last_commit": "2026-08-08T00:46:49Z",
             "owner": "chef",
             "repo": "bento",
-            "stars": 4445
+            "stars": 4446
           }
         }
       ],
@@ -57,7 +57,7 @@
             "last_commit": "2026-08-03T08:01:11Z",
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27202
+            "stars": 27203
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-08-25T14:40:25Z",
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189383
+            "stars": 189409
           }
         },
         {
@@ -347,9 +347,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:28:31.233Z",
-    "original_repository": "iJackUA/awesome-vagrant",
-    "original_repository_id": 22462211,
+    "last_updated": "2026-08-27T12:09:56.699Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 22462211,
+      "language": null,
+      "last_commit": "2020-10-08T13:38:09Z",
+      "owner": "iJackUA",
+      "repo": "awesome-vagrant",
+      "stars": 631
+    },
     "original_repository_sha": "969258654304bac6e72e17681cbaeef543a67abe",
     "enhanced_repository": "enhansome/enhansome-vagrant",
     "enhanced_repository_description": null,
