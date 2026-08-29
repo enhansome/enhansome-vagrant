@@ -15,8 +15,9 @@
             "last_commit": "2026-08-03T08:01:11Z",
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27202
-          }
+            "stars": 27204
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         }
       ],
       "title": "Official resources"
@@ -36,8 +37,9 @@
             "last_commit": "2026-08-08T00:46:49Z",
             "owner": "chef",
             "repo": "bento",
-            "stars": 4446
-          }
+            "stars": 4447
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         }
       ],
       "title": "Boxes"
@@ -57,8 +59,9 @@
             "last_commit": "2026-08-03T08:01:11Z",
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27202
-          }
+            "stars": 27204
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         },
         {
           "node_type": "item",
@@ -73,7 +76,8 @@
             "owner": "dotless-de",
             "repo": "vagrant-vbguest",
             "stars": 2865
-          }
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         },
         {
           "node_type": "item",
@@ -88,7 +92,8 @@
             "owner": "agiledivider",
             "repo": "vagrant-hostsupdater",
             "stars": 1152
-          }
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "jedi4ever",
             "repo": "sahara",
             "stars": 730
-          }
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "invernizzi",
             "repo": "vagrant-scp",
             "stars": 313
-          }
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "phinze",
             "repo": "vagrant-host-shell",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "jaugustin",
             "repo": "vagrant-ansible-local",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "projectatomic",
             "repo": "adb-vagrant-registration",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "projectatomic",
             "repo": "vagrant-service-manager",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         }
       ],
       "title": "Notable plugins"
@@ -195,11 +206,12 @@
             "archived": false,
             "id": 291137,
             "language": "Shell",
-            "last_commit": "2026-08-25T14:40:25Z",
+            "last_commit": "2026-08-29T00:43:45Z",
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189413
-          }
+            "stars": 189428
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "jedi4ever",
             "repo": "veewee",
             "stars": 4263
-          }
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         },
         {
           "node_type": "item",
@@ -229,7 +242,8 @@
             "owner": "thomvaill",
             "repo": "tads-boilerplate",
             "stars": 779
-          }
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "MunGell",
             "repo": "vgm",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         }
       ],
       "title": "Helpers / Tools"
@@ -265,7 +280,8 @@
             "owner": "Varying-Vagrant-Vagrants",
             "repo": "VVV",
             "stars": 4525
-          }
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         },
         {
           "node_type": "item",
@@ -280,7 +296,8 @@
             "owner": "vagrantpress",
             "repo": "vagrantpress",
             "stars": 719
-          }
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         },
         {
           "node_type": "item",
@@ -295,7 +312,8 @@
             "owner": "bryannielsen",
             "repo": "Laravel4-Vagrant",
             "stars": 483
-          }
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         },
         {
           "node_type": "item",
@@ -310,7 +328,8 @@
             "owner": "openstack-ansible",
             "repo": "openstack-ansible",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         },
         {
           "node_type": "item",
@@ -325,7 +344,8 @@
             "owner": "joomlatools",
             "repo": "joomlatools-vagrant",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         },
         {
           "node_type": "item",
@@ -340,14 +360,15 @@
             "owner": "iJackUA",
             "repo": "try-yii2",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-29T00:44:16.578Z"
         }
       ],
       "title": "Popular readymade environments"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:10:45.004Z",
+    "last_updated": "2026-08-29T00:44:16.578Z",
     "original_repository_info": {
       "archived": false,
       "id": 22462211,
