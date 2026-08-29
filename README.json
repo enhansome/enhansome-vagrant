@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vagrant is a tool for building and distributing development environments.",
+            "homepage": "https://www.vagrantup.com",
             "id": 481872,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T08:01:11Z",
+            "open_issues": 753,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27204
+            "stars": 27204,
+            "topics": [
+              "automation",
+              "ruby",
+              "vagrant",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         }
@@ -32,12 +42,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Packer templates for building minimal Vagrant baseboxes for multiple platforms",
+            "homepage": null,
             "id": 3651143,
             "language": "HCL",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-08T00:46:49Z",
+            "open_issues": 22,
             "owner": "chef",
             "repo": "bento",
-            "stars": 4447
+            "stars": 4447,
+            "topics": [
+              "amazon",
+              "centos",
+              "freebsd",
+              "linux",
+              "macos",
+              "oracle",
+              "packer",
+              "packer-templates",
+              "parallels",
+              "redhat",
+              "rhel",
+              "ubuntu",
+              "vagrant",
+              "virtualbox",
+              "vmware",
+              "vmware-fusion",
+              "vmware-workstation",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         }
@@ -54,12 +88,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vagrant is a tool for building and distributing development environments.",
+            "homepage": "https://www.vagrantup.com",
             "id": 481872,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T08:01:11Z",
+            "open_issues": 753,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27204
+            "stars": 27204,
+            "topics": [
+              "automation",
+              "ruby",
+              "vagrant",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         },
@@ -70,12 +114,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Vagrant plugin to keep your VirtualBox Guest Additions up to date",
+            "homepage": null,
             "id": 2337256,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2023-12-17T15:26:49Z",
+            "open_issues": 0,
             "owner": "dotless-de",
             "repo": "vagrant-vbguest",
-            "stars": 2865
+            "stars": 2865,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         },
@@ -86,12 +135,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 9729334,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2021-12-01T06:06:47Z",
+            "open_issues": 35,
             "owner": "agiledivider",
             "repo": "vagrant-hostsupdater",
-            "stars": 1152
+            "stars": 1152,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         },
@@ -102,12 +156,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a plugin for vagrant that allows you manage a sandbox state",
+            "homepage": null,
             "id": 1674637,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2020-02-17T16:13:43Z",
+            "open_issues": 12,
             "owner": "jedi4ever",
             "repo": "sahara",
-            "stars": 730
+            "stars": 730,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         },
@@ -118,12 +177,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Copy files to a Vagrant VM via SCP.",
+            "homepage": null,
             "id": 29886269,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2022-03-03T14:53:14Z",
+            "open_issues": 14,
             "owner": "invernizzi",
             "repo": "vagrant-scp",
-            "stars": 313
+            "stars": 313,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         },
@@ -134,12 +198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "simple vagrant provisioner that executes commands on the host",
+            "homepage": null,
             "id": 11705000,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2017-04-24T22:43:53Z",
+            "open_issues": 10,
             "owner": "phinze",
             "repo": "vagrant-host-shell",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         },
@@ -150,12 +219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vagrant plugin that provision your VM with ansible playbooks directly from the guest VM",
+            "homepage": null,
             "id": 14090261,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2015-01-29T08:51:02Z",
+            "open_issues": 3,
             "owner": "jaugustin",
             "repo": "vagrant-ansible-local",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         },
@@ -166,12 +240,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin to add \"register\" and \"unregister\" capabilities to Vagrant guests.",
+            "homepage": null,
             "id": 25401603,
             "language": "Ruby",
+            "license": "GPL-2.0",
             "last_commit": "2020-03-21T18:38:55Z",
+            "open_issues": 25,
             "owner": "projectatomic",
             "repo": "adb-vagrant-registration",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         },
@@ -182,12 +261,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "To provide the user a CLI to configure the ADB/CDK for different use cases and to provide glue between ADB/CDK and the user's developer environment.",
+            "homepage": null,
             "id": 51367450,
             "language": "Ruby",
+            "license": "GPL-2.0",
             "last_commit": "2017-02-03T08:43:55Z",
+            "open_issues": 41,
             "owner": "projectatomic",
             "repo": "vagrant-service-manager",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         }
@@ -204,12 +288,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+            "homepage": "https://ohmyz.sh",
             "id": 291137,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-29T00:43:45Z",
+            "open_issues": 574,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189428
+            "stars": 189427,
+            "topics": [
+              "cli",
+              "cli-app",
+              "oh-my-zsh",
+              "oh-my-zsh-plugin",
+              "oh-my-zsh-theme",
+              "ohmyzsh",
+              "plugin-framework",
+              "plugins",
+              "productivity",
+              "shell",
+              "terminal",
+              "theme",
+              "themes",
+              "zsh",
+              "zsh-configuration"
+            ]
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         },
@@ -220,12 +325,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easing the building of vagrant boxes",
+            "homepage": null,
             "id": 1066222,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2018-09-17T07:21:35Z",
+            "open_issues": 104,
             "owner": "jedi4ever",
             "repo": "veewee",
-            "stars": 4263
+            "stars": 4263,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         },
@@ -236,12 +346,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code",
+            "homepage": null,
             "id": 218020487,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-02-06T08:50:52Z",
+            "open_issues": 9,
             "owner": "thomvaill",
             "repo": "tads-boilerplate",
-            "stars": 779
+            "stars": 779,
+            "topics": [
+              "ansible",
+              "bash",
+              "boilerplate",
+              "devops",
+              "docker",
+              "docker-swarm",
+              "hacktoberfest",
+              "iac",
+              "infrastructure-as-code",
+              "noops",
+              "tads",
+              "terraform",
+              "vagrant"
+            ]
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         },
@@ -252,12 +381,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Vagrant Manager – command-line tool to simplify management of vagrant boxes",
+            "homepage": "https://mungell.github.io/vgm",
             "id": 61433502,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-22T17:05:17Z",
+            "open_issues": 0,
             "owner": "MunGell",
             "repo": "vgm",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "cli",
+              "convenient",
+              "homestead",
+              "vagrant",
+              "vagrant-commands"
+            ]
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         }
@@ -274,12 +414,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source Vagrant configuration for developing with WordPress",
+            "homepage": "https://varyingvagrantvagrants.org",
             "id": 7123799,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-06-08T10:43:10Z",
+            "open_issues": 99,
             "owner": "Varying-Vagrant-Vagrants",
             "repo": "VVV",
-            "stars": 4525
+            "stars": 4525,
+            "topics": [
+              "vagrant",
+              "varying-vagrant-vagrants",
+              "vvv",
+              "wordpress"
+            ]
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         },
@@ -290,12 +440,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A WordPress Development Environment With Vagrant/Puppet",
+            "homepage": null,
             "id": 7766206,
             "language": "Puppet",
+            "license": "MIT",
             "last_commit": "2016-12-31T18:41:07Z",
+            "open_issues": 26,
             "owner": "vagrantpress",
             "repo": "vagrantpress",
-            "stars": 719
+            "stars": 719,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         },
@@ -306,12 +461,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run Laravel4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5",
+            "homepage": null,
             "id": 6423499,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2015-05-20T15:17:07Z",
+            "open_issues": 15,
             "owner": "bryannielsen",
             "repo": "Laravel4-Vagrant",
-            "stars": 483
+            "stars": 483,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         },
@@ -322,12 +482,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ansible playbooks for installing OpenStack",
+            "homepage": null,
             "id": 4989042,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2016-12-21T11:15:00Z",
+            "open_issues": 8,
             "owner": "openstack-ansible",
             "repo": "openstack-ansible",
-            "stars": 215
+            "stars": 215,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         },
@@ -338,12 +503,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Vagrant box for Joomla development.",
+            "homepage": "https://www.joomlatools.com/developer/tools/vagrant/",
             "id": 11895722,
             "language": "PHP",
+            "license": "MPL-2.0",
             "last_commit": "2020-08-19T09:21:42Z",
+            "open_issues": 51,
             "owner": "joomlatools",
             "repo": "joomlatools-vagrant",
-            "stars": 140
+            "stars": 140,
+            "topics": [
+              "vagrant"
+            ]
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         },
@@ -354,12 +526,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground",
+            "homepage": null,
             "id": 20268007,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2015-12-15T10:50:03Z",
+            "open_issues": 3,
             "owner": "iJackUA",
             "repo": "try-yii2",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
         }
@@ -368,15 +545,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:44:16.578Z",
+    "last_updated": "2026-08-29T04:41:06.693Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.",
+      "homepage": null,
       "id": 22462211,
       "language": null,
+      "license": null,
       "last_commit": "2020-10-08T13:38:09Z",
+      "open_issues": 2,
       "owner": "iJackUA",
       "repo": "awesome-vagrant",
-      "stars": 631
+      "stars": 631,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list",
+        "vagrant",
+        "vagrant-resources"
+      ]
     },
     "original_repository_sha": "969258654304bac6e72e17681cbaeef543a67abe",
     "enhanced_repository": "enhansome/enhansome-vagrant",
