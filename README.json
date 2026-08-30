@@ -48,7 +48,7 @@
             "language": "HCL",
             "license": "Apache-2.0",
             "last_commit": "2026-08-08T00:46:49Z",
-            "open_issues": 23,
+            "open_issues": 21,
             "owner": "chef",
             "repo": "bento",
             "stars": 4447,
@@ -293,11 +293,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-29T00:43:45Z",
-            "open_issues": 575,
+            "last_commit": "2026-08-30T17:16:07Z",
+            "open_issues": 576,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189443,
+            "stars": 189458,
             "topics": [
               "cli",
               "cli-app",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:31:49.950Z",
+    "last_updated": "2026-08-30T19:30:14.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.",

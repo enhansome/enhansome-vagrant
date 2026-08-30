@@ -1,6 +1,6 @@
 # Awesome Vagrant with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,114 | 🐛 105 | 📅 2026-08-21 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iJackUA/awesome-vagrant?utm_source=badge\&utm_medium=badge\&utm_campaign=pr-badge) [![Build Status](https://api.travis-ci.org/iJackUA/awesome-vagrant.svg?branch=master)](https://travis-ci.org/iJackUA/awesome-vagrant)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,396 | 🐛 105 | 📅 2026-08-21 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iJackUA/awesome-vagrant?utm_source=badge\&utm_medium=badge\&utm_campaign=pr-badge) [![Build Status](https://api.travis-ci.org/iJackUA/awesome-vagrant.svg?branch=master)](https://travis-ci.org/iJackUA/awesome-vagrant)
 
 A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
 
@@ -13,7 +13,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 
 *Where to find OS boxes ?*
 
-* [Baseboxes from Opscode](https://github.com/chef/bento#current-baseboxes) ⭐ 4,447 | 🐛 23 | 🌐 HCL | 📅 2026-08-08 - CentOS, Fedora, Debian, FreeBSD, Ubuntu.
+* [Baseboxes from Opscode](https://github.com/chef/bento#current-baseboxes) ⭐ 4,447 | 🐛 21 | 🌐 HCL | 📅 2026-08-08 - CentOS, Fedora, Debian, FreeBSD, Ubuntu.
 * [Vagrantbox.es](http://www.vagrantbox.es/) - the biggest list of all available boxes, maintained by community via GitHub pull requests.
 * [Vagrant Cloud](https://app.vagrantup.com/boxes/search) - config share, boxes distribution and discovery (also premium features of private collaboration and sharing).
 * [Cloud Images Ubuntu.com](https://cloud-images.ubuntu.com/vagrant/) - "clean" official Ubuntu cloud images.
@@ -42,7 +42,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 
 ## Helpers / Tools
 
-* [Vagrant plugin for ZSH shell](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant) ⭐ 189,443 | 🐛 575 | 🌐 Shell | 📅 2026-08-29 - auto-complete for commands, task names, box names and built-in documentation.
+* [Vagrant plugin for ZSH shell](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant) ⭐ 189,458 | 🐛 576 | 🌐 Shell | 📅 2026-08-30 - auto-complete for commands, task names, box names and built-in documentation.
 * [Veewee](https://github.com/jedi4ever/veewee) ⭐ 4,263 | 🐛 104 | 🌐 Shell | 📅 2018-09-17 - a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
 * [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) ⚠️ Archived - boilerplate to create, develop and deploy a Docker Swarm environment, using Vagrant to reproduce production environment locally.
 * [CLI Vagrant Manager](https://github.com/MunGell/vgm) ⚠️ Archived - simple command-line tool to manage multiple vagrant boxes
@@ -112,4 +112,4 @@ To the extent possible under law, [Ievgen Kuzminov](http://stdout.in/) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
