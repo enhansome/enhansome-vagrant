@@ -19,7 +19,7 @@
             "open_issues": 753,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27203,
+            "stars": 27205,
             "topics": [
               "automation",
               "ruby",
@@ -97,7 +97,7 @@
             "open_issues": 753,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27203,
+            "stars": 27205,
             "topics": [
               "automation",
               "ruby",
@@ -293,11 +293,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-30T17:16:07Z",
-            "open_issues": 578,
+            "last_commit": "2026-09-01T07:23:31Z",
+            "open_issues": 576,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189484,
+            "stars": 189489,
             "topics": [
               "cli",
               "cli-app",
@@ -355,7 +355,7 @@
             "open_issues": 9,
             "owner": "thomvaill",
             "repo": "tads-boilerplate",
-            "stars": 779,
+            "stars": 780,
             "topics": [
               "ansible",
               "bash",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:39:42.454Z",
+    "last_updated": "2026-09-01T19:38:40.753Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.",
