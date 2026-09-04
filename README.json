@@ -293,11 +293,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-01T07:23:31Z",
-            "open_issues": 575,
+            "last_commit": "2026-09-04T11:19:11Z",
+            "open_issues": 573,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189531,
+            "stars": 189551,
             "topics": [
               "cli",
               "cli-app",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:28:27.274Z",
+    "last_updated": "2026-09-04T19:10:15.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.",
