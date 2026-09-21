@@ -15,11 +15,11 @@
             "id": 481872,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T01:33:32Z",
-            "open_issues": 756,
+            "last_commit": "2026-09-21T07:05:09Z",
+            "open_issues": 757,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27211,
+            "stars": 27209,
             "topics": [
               "automation",
               "ruby",
@@ -93,11 +93,11 @@
             "id": 481872,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T01:33:32Z",
-            "open_issues": 756,
+            "last_commit": "2026-09-21T07:05:09Z",
+            "open_issues": 757,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27211,
+            "stars": 27209,
             "topics": [
               "automation",
               "ruby",
@@ -197,7 +197,7 @@
           "description": "a vagrant provisioner to run commands on the host when a VM boots.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "simple vagrant provisioner that executes commands on the host",
             "homepage": null,
             "id": 11705000,
@@ -293,11 +293,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-20T15:14:29Z",
-            "open_issues": 315,
+            "last_commit": "2026-09-21T20:38:56Z",
+            "open_issues": 303,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189847,
+            "stars": 189870,
             "topics": [
               "cli",
               "cli-app",
@@ -491,7 +491,7 @@
             "open_issues": 8,
             "owner": "openstack-ansible",
             "repo": "openstack-ansible",
-            "stars": 215,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T19:04:51.369Z",
+    "last_updated": "2026-09-21T20:40:01.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.",

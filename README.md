@@ -1,12 +1,12 @@
 # Awesome Vagrant with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,190 | 🐛 106 | 📅 2026-09-02 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iJackUA/awesome-vagrant?utm_source=badge\&utm_medium=badge\&utm_campaign=pr-badge) [![Build Status](https://api.travis-ci.org/iJackUA/awesome-vagrant.svg?branch=master)](https://travis-ci.org/iJackUA/awesome-vagrant)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,583 | 🐛 106 | 📅 2026-09-02 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iJackUA/awesome-vagrant?utm_source=badge\&utm_medium=badge\&utm_campaign=pr-badge) [![Build Status](https://api.travis-ci.org/iJackUA/awesome-vagrant.svg?branch=master)](https://travis-ci.org/iJackUA/awesome-vagrant)
 
 A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
 
 ## Official resources
 
-* [GitHub repo](https://github.com/hashicorp/vagrant) ⭐ 27,211 | 🐛 756 | 🌐 Ruby | 📅 2026-09-07 - source code, issues discussion and collaboration.
+* [GitHub repo](https://github.com/hashicorp/vagrant) ⭐ 27,209 | 🐛 757 | 🌐 Ruby | 📅 2026-09-21 - source code, issues discussion and collaboration.
 * [Vagrant site](https://www.vagrantup.com/) - installation instruction, official manuals and docs.
 
 ## Boxes
@@ -29,12 +29,12 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 
 *You can install these modules by this command `vagrant plugin install MODULE-NAME`*
 
-* [List of available Vagrant plugins from GitHub wiki](https://github.com/hashicorp/vagrant/wiki/Available-Vagrant-Plugins) ⭐ 27,211 | 🐛 756 | 🌐 Ruby | 📅 2026-09-07.
+* [List of available Vagrant plugins from GitHub wiki](https://github.com/hashicorp/vagrant/wiki/Available-Vagrant-Plugins) ⭐ 27,209 | 🐛 757 | 🌐 Ruby | 📅 2026-09-21.
 * [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) ⚠️ Archived - autoupdate VirtualBox guest additions (according to VB version).
 * [vagrant-hostsupdater](https://github.com/cogitatio/vagrant-hostsupdater) ⭐ 1,152 | 🐛 35 | 🌐 Ruby | 📅 2021-12-01 - adds an entry to your /etc/hosts file on the host system.
 * [sahara](https://github.com/jedi4ever/sahara) ⭐ 729 | 🐛 12 | 🌐 Ruby | 📅 2020-02-17 - easy manage VM state (commit/rollback while experimenting with software stack).
 * [vagrant-scp](https://github.com/invernizzi/vagrant-scp) ⭐ 313 | 🐛 14 | 🌐 Ruby | 📅 2022-03-03 - Copy files to a Vagrant VM via SCP.
-* [vagrant-host-shell](https://github.com/phinze/vagrant-host-shell) ⭐ 112 | 🐛 10 | 🌐 Ruby | 📅 2017-04-24 - a vagrant provisioner to run commands on the host when a VM boots.
+* [vagrant-host-shell](https://github.com/phinze/vagrant-host-shell) ⚠️ Archived - a vagrant provisioner to run commands on the host when a VM boots.
 * [vagrant-ansible-local](https://github.com/jaugustin/vagrant-ansible-local) ⭐ 64 | 🐛 3 | 🌐 Ruby | 📅 2015-01-29  allow provisioning your VM with ansible playbooks directly from the guest VM.
 * [vagrant-registration](https://github.com/projectatomic/adb-vagrant-registration) ⭐ 52 | 🐛 25 | 🌐 Ruby | 📅 2020-03-21 - add "register" and "unregister" capabilities to Vagrant guests for updates on systems with a subscription model(like Red Hat Enterprise Linux).
 * [vagrant-service-manager](https://github.com/projectatomic/vagrant-service-manager) ⚠️ Archived - enable easier access to the features and services provided by the [Atomic Developer Bundle (ADB)](https://github.com/projectatomic/adb-atomic-developer-bundle) ⚠️ Archived.
@@ -42,7 +42,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 
 ## Helpers / Tools
 
-* [Vagrant plugin for ZSH shell](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant) ⭐ 189,847 | 🐛 315 | 🌐 Shell | 📅 2026-09-20 - auto-complete for commands, task names, box names and built-in documentation.
+* [Vagrant plugin for ZSH shell](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant) ⭐ 189,870 | 🐛 303 | 🌐 Shell | 📅 2026-09-21 - auto-complete for commands, task names, box names and built-in documentation.
 * [Veewee](https://github.com/jedi4ever/veewee) ⭐ 4,262 | 🐛 104 | 🌐 Shell | 📅 2018-09-17 - a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
 * [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) ⚠️ Archived - boilerplate to create, develop and deploy a Docker Swarm environment, using Vagrant to reproduce production environment locally.
 * [CLI Vagrant Manager](https://github.com/MunGell/vgm) ⚠️ Archived - simple command-line tool to manage multiple vagrant boxes
@@ -96,7 +96,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 * [Varying Vagrant Vagrants](https://github.com/Varying-Vagrant-Vagrants/VVV) ⭐ 4,525 | 🐛 99 | 🌐 Shell | 📅 2026-06-08 - An open source Vagrant configuration focused on WordPress development.
 * [Vagrantpress](https://github.com/vagrantpress/vagrantpress) ⚠️ Archived - development environment for creating and modifying WordPress sites.
 * [Laravel4-Vagrant](https://github.com/bryannielsen/Laravel4-Vagrant) ⭐ 483 | 🐛 15 | 🌐 Ruby | 📅 2015-05-20 - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
-* [OpenStack on Ansible with Vagrant](https://github.com/openstack-ansible/openstack-ansible) ⭐ 215 | 🐛 8 | 🌐 Python | 📅 2016-12-21.
+* [OpenStack on Ansible with Vagrant](https://github.com/openstack-ansible/openstack-ansible) ⭐ 214 | 🐛 8 | 🌐 Python | 📅 2016-12-21.
 * [Joomla-Vagrant](https://github.com/joomlatools/joomlatools-vagrant) ⚠️ Archived.
 * [Try Yii2](https://github.com/iJackUA/try-yii2) ⭐ 47 | 🐛 3 | 🌐 PHP | 📅 2015-12-15 - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
 * [VDD](https://www.drupal.org/project/vdd) - Vagrant Drupal Development.
@@ -112,4 +112,4 @@ To the extent possible under law, [Ievgen Kuzminov](http://stdout.in/) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
