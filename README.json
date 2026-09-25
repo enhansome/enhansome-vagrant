@@ -19,7 +19,7 @@
             "open_issues": 758,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27211,
+            "stars": 27210,
             "topics": [
               "automation",
               "ruby",
@@ -97,7 +97,7 @@
             "open_issues": 758,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27211,
+            "stars": 27210,
             "topics": [
               "automation",
               "ruby",
@@ -123,7 +123,7 @@
             "open_issues": 0,
             "owner": "dotless-de",
             "repo": "vagrant-vbguest",
-            "stars": 2864,
+            "stars": 2863,
             "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
@@ -297,7 +297,7 @@
             "open_issues": 299,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 189911,
+            "stars": 189926,
             "topics": [
               "cli",
               "cli-app",
@@ -423,7 +423,7 @@
             "open_issues": 99,
             "owner": "Varying-Vagrant-Vagrants",
             "repo": "VVV",
-            "stars": 4525,
+            "stars": 4524,
             "topics": [
               "vagrant",
               "varying-vagrant-vagrants",
@@ -449,7 +449,7 @@
             "open_issues": 26,
             "owner": "vagrantpress",
             "repo": "vagrantpress",
-            "stars": 719,
+            "stars": 718,
             "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:11:03.397Z",
+    "last_updated": "2026-09-25T20:09:24.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.",
