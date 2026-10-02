@@ -19,7 +19,7 @@
             "open_issues": 757,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27211,
+            "stars": 27210,
             "topics": [
               "automation",
               "ruby",
@@ -51,7 +51,7 @@
             "open_issues": 26,
             "owner": "chef",
             "repo": "bento",
-            "stars": 4449,
+            "stars": 4448,
             "topics": [
               "amazon",
               "centos",
@@ -97,7 +97,7 @@
             "open_issues": 757,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27211,
+            "stars": 27210,
             "topics": [
               "automation",
               "ruby",
@@ -144,7 +144,7 @@
             "open_issues": 35,
             "owner": "agiledivider",
             "repo": "vagrant-hostsupdater",
-            "stars": 1151,
+            "stars": 1150,
             "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
@@ -165,7 +165,7 @@
             "open_issues": 12,
             "owner": "jedi4ever",
             "repo": "sahara",
-            "stars": 729,
+            "stars": 728,
             "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
@@ -297,7 +297,7 @@
             "open_issues": 302,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190028,
+            "stars": 190040,
             "topics": [
               "cli",
               "cli-app",
@@ -334,7 +334,7 @@
             "open_issues": 104,
             "owner": "jedi4ever",
             "repo": "veewee",
-            "stars": 4262,
+            "stars": 4261,
             "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:25:13.477Z",
+    "last_updated": "2026-10-02T21:02:30.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.",
