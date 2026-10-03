@@ -84,7 +84,7 @@
         {
           "node_type": "item",
           "title": "List of available Vagrant plugins from GitHub wiki",
-          "description": ".",
+          "description": "hashicorp/vagrant",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -294,10 +294,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-09-29T15:38:41Z",
-            "open_issues": 302,
+            "open_issues": 303,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190040,
+            "stars": 190046,
             "topics": [
               "cli",
               "cli-app",
@@ -478,7 +478,7 @@
         {
           "node_type": "item",
           "title": "OpenStack on Ansible with Vagrant",
-          "description": ".",
+          "description": "openstack-ansible/openstack-ansible",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -499,7 +499,7 @@
         {
           "node_type": "item",
           "title": "Joomla-Vagrant",
-          "description": ".",
+          "description": "joomlatools/joomlatools-vagrant",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:02:30.773Z",
+    "last_updated": "2026-10-03T05:13:16.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.",
