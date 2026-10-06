@@ -19,7 +19,7 @@
             "open_issues": 757,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27212,
+            "stars": 27210,
             "topics": [
               "automation",
               "ruby",
@@ -97,7 +97,7 @@
             "open_issues": 757,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27212,
+            "stars": 27210,
             "topics": [
               "automation",
               "ruby",
@@ -165,7 +165,7 @@
             "open_issues": 12,
             "owner": "jedi4ever",
             "repo": "sahara",
-            "stars": 728,
+            "stars": 727,
             "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
@@ -294,10 +294,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-10-06T09:06:45Z",
-            "open_issues": 303,
+            "open_issues": 306,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190178,
+            "stars": 190198,
             "topics": [
               "cli",
               "cli-app",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:54:51.155Z",
+    "last_updated": "2026-10-06T21:17:09.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.",
