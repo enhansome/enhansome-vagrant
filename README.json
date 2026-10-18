@@ -51,7 +51,7 @@
             "open_issues": 27,
             "owner": "chef",
             "repo": "bento",
-            "stars": 4456,
+            "stars": 4455,
             "topics": [
               "amazon",
               "centos",
@@ -293,11 +293,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-13T09:22:27Z",
-            "open_issues": 298,
+            "last_commit": "2026-10-18T12:53:51Z",
+            "open_issues": 300,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190057,
+            "stars": 190065,
             "topics": [
               "cli",
               "cli-app",
@@ -423,7 +423,7 @@
             "open_issues": 99,
             "owner": "Varying-Vagrant-Vagrants",
             "repo": "VVV",
-            "stars": 4526,
+            "stars": 4525,
             "topics": [
               "vagrant",
               "varying-vagrant-vagrants",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T18:52:55.080Z",
+    "last_updated": "2026-10-18T18:59:56.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.",
