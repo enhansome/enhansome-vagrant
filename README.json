@@ -19,7 +19,7 @@
             "open_issues": 757,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27218,
+            "stars": 27215,
             "topics": [
               "automation",
               "ruby",
@@ -97,7 +97,7 @@
             "open_issues": 757,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27218,
+            "stars": 27215,
             "topics": [
               "automation",
               "ruby",
@@ -165,7 +165,7 @@
             "open_issues": 12,
             "owner": "jedi4ever",
             "repo": "sahara",
-            "stars": 726,
+            "stars": 725,
             "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
@@ -293,11 +293,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-25T14:39:33Z",
-            "open_issues": 297,
+            "last_commit": "2026-10-27T11:37:50Z",
+            "open_issues": 298,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190175,
+            "stars": 190189,
             "topics": [
               "cli",
               "cli-app",
@@ -334,7 +334,7 @@
             "open_issues": 104,
             "owner": "jedi4ever",
             "repo": "veewee",
-            "stars": 4259,
+            "stars": 4258,
             "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
@@ -423,7 +423,7 @@
             "open_issues": 99,
             "owner": "Varying-Vagrant-Vagrants",
             "repo": "VVV",
-            "stars": 4525,
+            "stars": 4524,
             "topics": [
               "vagrant",
               "varying-vagrant-vagrants",
@@ -470,7 +470,7 @@
             "open_issues": 15,
             "owner": "bryannielsen",
             "repo": "Laravel4-Vagrant",
-            "stars": 483,
+            "stars": 482,
             "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:13:34.388Z",
+    "last_updated": "2026-10-27T21:00:06.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.",
