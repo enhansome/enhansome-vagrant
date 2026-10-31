@@ -16,10 +16,10 @@
             "language": "Ruby",
             "license": "NOASSERTION",
             "last_commit": "2026-10-26T07:06:00Z",
-            "open_issues": 758,
+            "open_issues": 759,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27215,
+            "stars": 27217,
             "topics": [
               "automation",
               "ruby",
@@ -94,10 +94,10 @@
             "language": "Ruby",
             "license": "NOASSERTION",
             "last_commit": "2026-10-26T07:06:00Z",
-            "open_issues": 758,
+            "open_issues": 759,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27215,
+            "stars": 27217,
             "topics": [
               "automation",
               "ruby",
@@ -297,7 +297,7 @@
             "open_issues": 303,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190251,
+            "stars": 190268,
             "topics": [
               "cli",
               "cli-app",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:08:10.199Z",
+    "last_updated": "2026-10-31T20:19:30.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.",
