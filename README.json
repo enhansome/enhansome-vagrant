@@ -16,7 +16,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-11-02T23:38:53Z",
-            "open_issues": 759,
+            "open_issues": 758,
             "owner": "hashicorp",
             "repo": "vagrant",
             "stars": 27219,
@@ -51,7 +51,7 @@
             "open_issues": 26,
             "owner": "chef",
             "repo": "bento",
-            "stars": 4458,
+            "stars": 4459,
             "topics": [
               "amazon",
               "centos",
@@ -94,7 +94,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-11-02T23:38:53Z",
-            "open_issues": 759,
+            "open_issues": 758,
             "owner": "hashicorp",
             "repo": "vagrant",
             "stars": 27219,
@@ -294,10 +294,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-11-02T08:23:34Z",
-            "open_issues": 313,
+            "open_issues": 314,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190299,
+            "stars": 190315,
             "topics": [
               "cli",
               "cli-app",
@@ -423,7 +423,7 @@
             "open_issues": 99,
             "owner": "Varying-Vagrant-Vagrants",
             "repo": "VVV",
-            "stars": 4525,
+            "stars": 4524,
             "topics": [
               "vagrant",
               "varying-vagrant-vagrants",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T22:04:03.987Z",
+    "last_updated": "2026-11-04T22:15:13.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.",
