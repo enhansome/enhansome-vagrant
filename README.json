@@ -15,7 +15,7 @@
             "id": 481872,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-02T23:38:53Z",
+            "last_commit": "2026-11-09T07:06:50Z",
             "open_issues": 758,
             "owner": "hashicorp",
             "repo": "vagrant",
@@ -48,10 +48,10 @@
             "language": "HCL",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T16:22:19Z",
-            "open_issues": 27,
+            "open_issues": 26,
             "owner": "chef",
             "repo": "bento",
-            "stars": 4461,
+            "stars": 4462,
             "topics": [
               "amazon",
               "centos",
@@ -93,7 +93,7 @@
             "id": 481872,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-02T23:38:53Z",
+            "last_commit": "2026-11-09T07:06:50Z",
             "open_issues": 758,
             "owner": "hashicorp",
             "repo": "vagrant",
@@ -293,11 +293,11 @@
             "id": 291137,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-08T12:52:30Z",
-            "open_issues": 313,
+            "last_commit": "2026-11-09T12:36:12Z",
+            "open_issues": 310,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190374,
+            "stars": 190396,
             "topics": [
               "cli",
               "cli-app",
@@ -355,7 +355,7 @@
             "open_issues": 9,
             "owner": "thomvaill",
             "repo": "tads-boilerplate",
-            "stars": 780,
+            "stars": 781,
             "topics": [
               "ansible",
               "bash",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T20:47:46.796Z",
+    "last_updated": "2026-11-10T00:27:48.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.",
