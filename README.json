@@ -19,7 +19,7 @@
             "open_issues": 760,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27231,
+            "stars": 27233,
             "topics": [
               "automation",
               "ruby",
@@ -51,7 +51,7 @@
             "open_issues": 27,
             "owner": "chef",
             "repo": "bento",
-            "stars": 4463,
+            "stars": 4464,
             "topics": [
               "amazon",
               "centos",
@@ -97,7 +97,7 @@
             "open_issues": 760,
             "owner": "hashicorp",
             "repo": "vagrant",
-            "stars": 27231,
+            "stars": 27233,
             "topics": [
               "automation",
               "ruby",
@@ -297,7 +297,7 @@
             "open_issues": 314,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190776,
+            "stars": 190647,
             "topics": [
               "cli",
               "cli-app",
@@ -334,7 +334,7 @@
             "open_issues": 104,
             "owner": "jedi4ever",
             "repo": "veewee",
-            "stars": 4256,
+            "stars": 4257,
             "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
@@ -355,7 +355,7 @@
             "open_issues": 9,
             "owner": "thomvaill",
             "repo": "tads-boilerplate",
-            "stars": 781,
+            "stars": 780,
             "topics": [
               "ansible",
               "bash",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:40:16.233Z",
+    "last_updated": "2026-11-18T23:09:46.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.",
