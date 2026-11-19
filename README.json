@@ -16,7 +16,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-11-12T17:25:50Z",
-            "open_issues": 760,
+            "open_issues": 762,
             "owner": "hashicorp",
             "repo": "vagrant",
             "stars": 27233,
@@ -94,7 +94,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-11-12T17:25:50Z",
-            "open_issues": 760,
+            "open_issues": 762,
             "owner": "hashicorp",
             "repo": "vagrant",
             "stars": 27233,
@@ -123,7 +123,7 @@
             "open_issues": 0,
             "owner": "dotless-de",
             "repo": "vagrant-vbguest",
-            "stars": 2862,
+            "stars": 2861,
             "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
@@ -294,10 +294,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-11-16T12:08:14Z",
-            "open_issues": 314,
+            "open_issues": 316,
             "owner": "ohmyzsh",
             "repo": "ohmyzsh",
-            "stars": 190647,
+            "stars": 190695,
             "topics": [
               "cli",
               "cli-app",
@@ -355,7 +355,7 @@
             "open_issues": 9,
             "owner": "thomvaill",
             "repo": "tads-boilerplate",
-            "stars": 780,
+            "stars": 779,
             "topics": [
               "ansible",
               "bash",
@@ -470,7 +470,7 @@
             "open_issues": 15,
             "owner": "bryannielsen",
             "repo": "Laravel4-Vagrant",
-            "stars": 483,
+            "stars": 482,
             "topics": []
           },
           "first_seen": "2026-08-29T00:44:16.578Z"
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:09:46.163Z",
+    "last_updated": "2026-11-19T23:16:07.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.",
